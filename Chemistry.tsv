@@ -1,165 +1,623 @@
-5-Hydroxyindoleacetic acid (5-HIAA)
-5-Hydroxyindoleacetic acid (5-HIAA).urine.24 hour
-5-Hydroxyindoleacetic acid (5-HIAA).urine.concentration
-Aldolase
-Alkaline phosphatase.total (ALP)
-Alpha linolenic acid (C18:3w3)
-Alpha-1 globulin.CSF.concentration
-Alpha-1 globulin.concentration
-Alpha-1 globulin.unspecified specimen.concentration
-Alpha-1 globulin.unspecified specimen.percent
-Alpha-1 globulin.urine.24 hour
-Alpha-1 globulin.urine.concentration
-Alpha-1 globulin.urine.qualitative
-Alpha-2 globulin.CSF.concentration
-Alpha-2 globulin.concentration
-Alpha-2 globulin.unspecified specimen.concentration
-Alpha-2 globulin.unspecified specimen.percent
-Alpha-2 globulin.urine.24 hour
-Alpha-2 globulin.urine.concentration
-Alpha-2 globulin.urine.qualitative
-Alpha-Fetoprotein (AFP)
-Amyloid beta 40 peptide
-Amyloid beta 40 peptide.CSF
-Amyloid beta 42 peptide
-Amyloid beta 42 peptide.CSF
-Amyloid beta 42 peptide/amyloid beta 40 peptide ratio
-Amyloid beta 42 peptide/amyloid beta 40 peptide ratio.CSF
-Anion gap
-Arachidic acid (C20:0)
-Arachidonic acid (C20:4w6)
-Base excess/deficit.arterial blood
-Bence jones protein.urine.qualitative
-Beta globulin.CSF.concentration
-Beta globulin.concentration
-Beta globulin.qualitative
-Beta globulin.unspecified specimen.concentration
-Beta globulin.unspecified specimen.percent
-Beta globulin.urine.24 hour
-Beta globulin.urine.concentration
-Beta globulin.urine.qualitative
-Beta-1 globulin.concentration
-Beta-1 globulin.urine.concentration
-Beta-2 globulin.concentration
-Beta-2 globulin.urine.concentration
-Bicarbonate (HCO3)
-Bicarbonate (HCO3).arterial blood
-Bilirubin.neonatal.direct
-Bilirubin.neonatal.total
-C-peptide.fasting
-C-peptide.random
-Calprotectin.stool
-Cancer antigen 125 (CA-125)
-Cancer antigen 15-3 (CA 15-3)
-Cancer antigen 19-9 (CA 19-9)
-Cancer antigen 27-29 (CA 27-29)
-Carcinoembryonic antigen (CEA)
-Cystatin C
-Deoxythymidine/creatinine ratio.urine
-Docosapentaenoic acid.omega-3 (C22:5w3)
-Docosapentaenoic acid.omega-6 (C22:5w6)
-Docosatetraenoic acid (C22:4w6)
-Docosenoic acid (C22:1)
-Elastase.pancreatic.stool
-Ethanol.percent
-F2-Isoprostanes.urine
-Fat.stool.qualitative
-Fat.stool.quantitative
-Fatty acids.free
-Fatty acids.monounsaturated
-Fatty acids.omega-6 (w6)
-Fatty acids.polyunsaturated
-Fatty acids.saturated
-Fatty acids.total
-Ferritin
-Fructosamine
-Gamma globulin.CSF.concentration
-Gamma globulin.concentration
-Gamma globulin.unspecified specimen.concentration
-Gamma globulin.unspecified specimen.percent
-Gamma globulin.urine.24 hour
-Gamma globulin.urine.concentration
-Gamma globulin.urine.qualitative
-Gamma-glutamyl transferase (GGT)
-Globulin
-Glomerular filtration rate (eGFR).CKD-EPI.Black.lab reported
-Glomerular filtration rate (eGFR).CKD-EPI.Non-Black.lab reported
-Glomerular filtration rate (eGFR).CKD-EPI.unspecified race.lab reported
-Glomerular filtration rate (eGFR).Cystatin C.unspecified race.lab reported
-Glomerular filtration rate (eGFR).MDRD.Black.lab reported
-Glomerular filtration rate (eGFR).MDRD.Non-Black.lab reported
-Glomerular filtration rate (eGFR).MDRD.unspecified race.lab reported
-Glomerular filtration rate (eGFR).unspecified equation.Black.lab reported
-Glomerular filtration rate (eGFR).unspecified equation.Non-Black.lab reported
-Glomerular filtration rate (eGFR).unspecified equation.unspecified race.lab reported
-Hemoglobin A1C.percent
-Hexadecenoic acid (C16:1w9)
-Immunoglobulin A (IgA).quantitative
-Immunoglobulin D (IgD).quantitative
-Immunoglobulin E.total (IgE).quantitative
-Immunoglobulin M (IgM).quantitative
-Interleukin 8 (IL-8)
-Kappa light chain.free (FLC).concentration
-Kappa light chain.free (FLC).urine.24 hour
-Kappa light chain.free (FLC).urine.concentration
-Kappa light chain.total (TLC).concentration
-Kappa light chain.total (TLC).urine.24 hour
-Kappa light chain.total (TLC).urine.concentration
-Kappa/lambda light chain ratio.free (FLC)
-Kappa/lambda light chain ratio.free (FLC).urine
-Kappa/lambda light chain ratio.total (TLC)
-Kappa/lambda light chain ratio.total (TLC).urine
-Lambda light chain.free (FLC).concentration
-Lambda light chain.free (FLC).urine.24 hour
-Lambda light chain.free (FLC).urine.concentration
-Lambda light chain.total (TLC).concentration
-Lambda light chain.total (TLC).urine.24 hour
-Lambda light chain.total (TLC).urine.concentration
-Lauric acid (C12:0)
-Mead acid (C20:3w9)
-Monoclonal protein (M protein).qualitative
-Monoclonal protein (M protein).unspecified specimen.qualitative
-Monoclonal protein (M protein).urine.qualitative
-Myristic acid (C14:0)
-Natriuretic peptide.B (BNP)
-Natriuretic peptide.proBNP (NT-proBNP)
-Nervonic acid (C24:1w9)
-Neurofilament light chain
-Neuron-specific enolase (NSE)
-Occult blood (FOB).stool
-Osmolality
-Osmolality.urine
-Oxygen.saturation (SO2).capillary blood
-Oxygen.saturation (SO2).unspecified specimen
-Oxygen.saturation (SO2).venous blood
-Oxygen.saturation (SvO2).mixed venous blood
-Oxyhemoglobin.fractional (FO2Hb).arterial blood
-Oxyhemoglobin.fractional (FO2Hb).capillary blood
-Oxyhemoglobin.fractional (FO2Hb).mixed venous blood
-Oxyhemoglobin.fractional (FO2Hb).unspecified specimen
-Oxyhemoglobin.fractional (FO2Hb).venous blood
-PH.arterial blood
-PH.arterial cord blood
-PH.temperature corrected.arterial blood
-Palmitic acid (C16:0)
-Palmitoleic acid (C16:1w7)
-Prealbumin (PALB)
-Procalcitonin (PCT)
-Prostate specific antigen.free (fPSA).concentration
-Prostate specific antigen.free (fPSA).percent
-Prostate specific antigen.total (PSA)
-Prostatic acid phosphatase (PAP)
-Stearic acid (C18:0)
-Tau protein.phosphorylated 181 (p-Tau181)
-Thiopurine methyltransferase.enzymatic activity (TPMT).RBC
-Triene/tetraene ratio
-Triglycerides (TG)
-Troponin (TNT) (TNI)
-Troponin.T (TNT)
-Uric acid
-Uric acid.urine.24 hour
-Uric acid.urine.concentration
-Vaccenic acid (C18:1w7)
-Vectra DA.score
-eGFR-Mayo
-eGFR-Schwartz
+50653-5	ALLERGY TESTING	Allergen.environmental.IgE
+57743-7	BLOOD BANK	ABO group
+882-1	BLOOD BANK	ABO group and Rh type
+1007-4	BLOOD BANK	Direct antiglobulin test (DAT)
+1004-1	BLOOD BANK	Direct antiglobulin test.complement (DAT)
+4694-6	BLOOD BANK	HLA antigen typing.unspecified specimen
+4821-5	BLOOD BANK	HLA-B27 type.unspecified specimen
+10331-7	BLOOD BANK	Rh type
+20587-2	CELL MARKERS	CD10.unspecified specimen.percent
+17100-9	CELL MARKERS	CD103.unspecified specimen.percent
+32742-9	CELL MARKERS	CD117.unspecified specimen.percent
+32758-5	CELL MARKERS	CD11b.unspecified specimen.percent
+8109-1	CELL MARKERS	CD11c.unspecified specimen.percent
+None	CELL MARKERS	CD123.unspecified specimen.percent
+20588-0	CELL MARKERS	CD13.unspecified specimen.percent
+None	CELL MARKERS	CD13.unspecified specimen.qualitative
+20589-8	CELL MARKERS	CD14.unspecified specimen.percent
+None	CELL MARKERS	CD14.unspecified specimen.qualitative
+20590-6	CELL MARKERS	CD15.unspecified specimen.percent
+51188-1	CELL MARKERS	CD15.unspecified specimen.qualitative
+20592-2	CELL MARKERS	CD19.unspecified specimen.absolute
+20593-0	CELL MARKERS	CD19.unspecified specimen.percent
+26563-7	CELL MARKERS	CD1a.unspecified specimen.percent
+None	CELL MARKERS	CD1a.unspecified specimen.qualitative
+32512-6	CELL MARKERS	CD2.unspecified specimen.absolute
+20594-8	CELL MARKERS	CD2.unspecified specimen.percent
+None	CELL MARKERS	CD2.unspecified specimen.qualitative
+74837-6	CELL MARKERS	CD20.unspecified specimen.absolute
+20595-5	CELL MARKERS	CD20.unspecified specimen.percent
+20596-3	CELL MARKERS	CD22.unspecified specimen.percent
+19078-5	CELL MARKERS	CD23.unspecified specimen.percent
+32495-4	CELL MARKERS	CD25.unspecified specimen.percent
+29596-4	CELL MARKERS	CD25.unspecified specimen.qualitative
+17128-0	CELL MARKERS	CD27.unspecified specimen.percent
+8122-4	CELL MARKERS	CD3.absolute
+8124-0	CELL MARKERS	CD3.percent
+20600-3	CELL MARKERS	CD30.unspecified specimen.percent
+20601-1	CELL MARKERS	CD33.unspecified specimen.percent
+74838-4	CELL MARKERS	CD34.unspecified specimen.absolute
+20602-9	CELL MARKERS	CD34.unspecified specimen.percent
+20603-7	CELL MARKERS	CD38.unspecified specimen.percent
+56127-4	CELL MARKERS	CD38.unspecified specimen.qualitative
+24467-3	CELL MARKERS	CD4.absolute
+8123-2	CELL MARKERS	CD4.percent
+54218-3	CELL MARKERS	CD4/CD8 ratio
+17148-8	CELL MARKERS	CD41.unspecified specimen.percent
+10443-0	CELL MARKERS	CD43.unspecified specimen.qualitative
+27071-0	CELL MARKERS	CD45.unspecified specimen.absolute
+20610-2	CELL MARKERS	CD45.unspecified specimen.percent
+40554-8	CELL MARKERS	CD45.unspecified specimen.qualitative
+None	CELL MARKERS	CD45RA.unspecified specimen.absolute
+17157-9	CELL MARKERS	CD45RA.unspecified specimen.percent
+None	CELL MARKERS	CD45RO.unspecified specimen.absolute
+17159-5	CELL MARKERS	CD45RO.unspecified specimen.percent
+29594-9	CELL MARKERS	CD45RO.unspecified specimen.qualitative
+9559-6	CELL MARKERS	CD5.unspecified specimen.absolute
+20611-0	CELL MARKERS	CD5.unspecified specimen.percent
+53639-1	CELL MARKERS	CD52.unspecified specimen.qualitative
+74840-0	CELL MARKERS	CD56.unspecified specimen.absolute
+21166-4	CELL MARKERS	CD56.unspecified specimen.percent
+10442-2	CELL MARKERS	CD56.unspecified specimen.qualitative
+21017-9	CELL MARKERS	CD57.unspecified specimen.absolute
+32498-8	CELL MARKERS	CD57.unspecified specimen.percent
+10444-8	CELL MARKERS	CD57.unspecified specimen.qualitative
+17183-5	CELL MARKERS	CD64.unspecified specimen.percent
+47017-9	CELL MARKERS	CD68.unspecified specimen.qualitative
+20612-8	CELL MARKERS	CD7.unspecified specimen.percent
+50310-2	CELL MARKERS	CD7.unspecified specimen.qualitative
+21169-8	CELL MARKERS	CD71.unspecified specimen.percent
+42933-2	CELL MARKERS	CD79a.unspecified specimen.percent
+47018-7	CELL MARKERS	CD79a.unspecified specimen.qualitative
+14135-8	CELL MARKERS	CD8.absolute
+8101-8	CELL MARKERS	CD8.percent
+52991-7	CELL MARKERS	Cytoplasmic CD79a.unspecified specimen.percent
+29540-2	CELL MARKERS	E-cadherin (CD324).unspecified specimen
+21171-4	CELL MARKERS	FMC7.unspecified specimen.percent
+None	CELL MARKERS	ICAM-1.soluble (CD54)
+29593-1	CELL MARKERS	Ki-67 antigen.unspecified specimen
+9728-7	CELL MARKERS	Natural killer cell (NK).absolute
+8112-5	CELL MARKERS	Natural killer cell (NK).percent
+None	CELL MARKERS	Natural killer cell.CD57+ (NK).absolute
+None	CELL MARKERS	Natural killer cell.CD57+ (NK).percent
+89315-6	CELL MARKERS	Natural regulatory T cell (nTreg).unspecified specimen.absolute
+80700-8	CELL MARKERS	Natural regulatory T cell (nTreg).unspecified specimen.percent
+32860-9	CELL MARKERS	TCR-alpha/beta.unspecified specimen.percent
+38236-6	CELL MARKERS	TCR-gamma/delta+CD3+.unspecified specimen.percent
+38435-4	CELL MARKERS	Terminal deoxynucleotidyl transferase (TdT).unspecified specimen.percent
+47399-1	CELL MARKERS	ZAP70+CD19+.unspecified specimen.percent
+53618-5	CELL MARKERS	ZAP70.unspecified specimen.qualitative
+58896-2	CHALLENGE TESTS	C-peptide.post-challenge
+1693-1	CHEMISTRY	5-Hydroxyindoleacetic acid (5-HIAA)
+1695-6	CHEMISTRY	5-Hydroxyindoleacetic acid (5-HIAA).urine.24 hour
+1694-9	CHEMISTRY	5-Hydroxyindoleacetic acid (5-HIAA).urine.concentration
+1761-6	CHEMISTRY	Aldolase
+6768-6	CHEMISTRY	Alkaline phosphatase.total (ALP)
+35164-3	CHEMISTRY	Alpha linolenic acid (C18:3w3)
+2864-7	CHEMISTRY	Alpha-1 globulin.CSF.concentration
+2865-4	CHEMISTRY	Alpha-1 globulin.concentration
+None	CHEMISTRY	Alpha-1 globulin.unspecified specimen.concentration
+None	CHEMISTRY	Alpha-1 globulin.unspecified specimen.percent
+6794-2	CHEMISTRY	Alpha-1 globulin.urine.24 hour
+22064-0	CHEMISTRY	Alpha-1 globulin.urine.concentration
+27184-1	CHEMISTRY	Alpha-1 globulin.urine.qualitative
+2867-0	CHEMISTRY	Alpha-2 globulin.CSF.concentration
+2868-8	CHEMISTRY	Alpha-2 globulin.concentration
+None	CHEMISTRY	Alpha-2 globulin.unspecified specimen.concentration
+None	CHEMISTRY	Alpha-2 globulin.unspecified specimen.percent
+6795-9	CHEMISTRY	Alpha-2 globulin.urine.24 hour
+6888-2	CHEMISTRY	Alpha-2 globulin.urine.concentration
+53771-2	CHEMISTRY	Alpha-2 globulin.urine.qualitative
+1834-1	CHEMISTRY	Alpha-Fetoprotein (AFP)
+70073-2	CHEMISTRY	Amyloid beta 40 peptide
+70072-4	CHEMISTRY	Amyloid beta 40 peptide.CSF
+33200-7	CHEMISTRY	Amyloid beta 42 peptide
+33203-1	CHEMISTRY	Amyloid beta 42 peptide.CSF
+101806-8	CHEMISTRY	Amyloid beta 42 peptide/amyloid beta 40 peptide ratio
+98485-6	CHEMISTRY	Amyloid beta 42 peptide/amyloid beta 40 peptide ratio.CSF
+10466-1	CHEMISTRY	Anion gap
+35169-2	CHEMISTRY	Arachidic acid (C20:0)
+35168-4	CHEMISTRY	Arachidonic acid (C20:4w6)
+1925-7	CHEMISTRY	Base excess/deficit.arterial blood
+1928-1	CHEMISTRY	Bence jones protein.urine.qualitative
+2870-4	CHEMISTRY	Beta globulin.CSF.concentration
+2871-2	CHEMISTRY	Beta globulin.concentration
+43836-6	CHEMISTRY	Beta globulin.qualitative
+None	CHEMISTRY	Beta globulin.unspecified specimen.concentration
+None	CHEMISTRY	Beta globulin.unspecified specimen.percent
+9829-3	CHEMISTRY	Beta globulin.urine.24 hour
+6889-0	CHEMISTRY	Beta globulin.urine.concentration
+53772-0	CHEMISTRY	Beta globulin.urine.qualitative
+32730-4	CHEMISTRY	Beta-1 globulin.concentration
+54353-8	CHEMISTRY	Beta-1 globulin.urine.concentration
+32731-2	CHEMISTRY	Beta-2 globulin.concentration
+54354-6	CHEMISTRY	Beta-2 globulin.urine.concentration
+1959-6	CHEMISTRY	Bicarbonate (HCO3)
+1960-4	CHEMISTRY	Bicarbonate (HCO3).arterial blood
+None	CHEMISTRY	Bilirubin.neonatal.direct
+None	CHEMISTRY	Bilirubin.neonatal.total
+13037-7	CHEMISTRY	C-peptide.fasting
+1986-9	CHEMISTRY	C-peptide.random
+38445-3	CHEMISTRY	Calprotectin.stool
+10334-1	CHEMISTRY	Cancer antigen 125 (CA-125)
+6875-9	CHEMISTRY	Cancer antigen 15-3 (CA 15-3)
+24108-3	CHEMISTRY	Cancer antigen 19-9 (CA 19-9)
+17842-6	CHEMISTRY	Cancer antigen 27-29 (CA 27-29)
+2039-6	CHEMISTRY	Carcinoembryonic antigen (CEA)
+33863-2	CHEMISTRY	Cystatin C
+None	CHEMISTRY	Deoxythymidine/creatinine ratio.urine
+35180-9	CHEMISTRY	Docosapentaenoic acid.omega-3 (C22:5w3)
+35181-7	CHEMISTRY	Docosapentaenoic acid.omega-6 (C22:5w6)
+35182-5	CHEMISTRY	Docosatetraenoic acid (C22:4w6)
+35160-1	CHEMISTRY	Docosenoic acid (C22:1)
+25907-7	CHEMISTRY	Elastase.pancreatic.stool
+None	CHEMISTRY	Ethanol.percent
+90782-4	CHEMISTRY	F2-Isoprostanes.urine
+2270-7	CHEMISTRY	Fat.stool.qualitative
+16142-2	CHEMISTRY	Fat.stool.quantitative
+15066-4	CHEMISTRY	Fatty acids.free
+35176-7	CHEMISTRY	Fatty acids.monounsaturated
+35179-1	CHEMISTRY	Fatty acids.omega-6 (w6)
+35177-5	CHEMISTRY	Fatty acids.polyunsaturated
+35175-9	CHEMISTRY	Fatty acids.saturated
+24461-6	CHEMISTRY	Fatty acids.total
+2276-4	CHEMISTRY	Ferritin
+15069-8	CHEMISTRY	Fructosamine
+2873-8	CHEMISTRY	Gamma globulin.CSF.concentration
+2874-6	CHEMISTRY	Gamma globulin.concentration
+None	CHEMISTRY	Gamma globulin.unspecified specimen.concentration
+None	CHEMISTRY	Gamma globulin.unspecified specimen.percent
+9831-9	CHEMISTRY	Gamma globulin.urine.24 hour
+9745-1	CHEMISTRY	Gamma globulin.urine.concentration
+53773-8	CHEMISTRY	Gamma globulin.urine.qualitative
+2324-2	CHEMISTRY	Gamma-glutamyl transferase (GGT)
+2336-6	CHEMISTRY	Globulin
+88293-6	CHEMISTRY	Glomerular filtration rate (eGFR).CKD-EPI.Black.lab reported
+88294-4	CHEMISTRY	Glomerular filtration rate (eGFR).CKD-EPI.Non-Black.lab reported
+62238-1	CHEMISTRY	Glomerular filtration rate (eGFR).CKD-EPI.unspecified race.lab reported
+50210-4	CHEMISTRY	Glomerular filtration rate (eGFR).Cystatin C.unspecified race.lab reported
+48643-1	CHEMISTRY	Glomerular filtration rate (eGFR).MDRD.Black.lab reported
+48642-3	CHEMISTRY	Glomerular filtration rate (eGFR).MDRD.Non-Black.lab reported
+33914-3	CHEMISTRY	Glomerular filtration rate (eGFR).MDRD.unspecified race.lab reported
+None	CHEMISTRY	Glomerular filtration rate (eGFR).unspecified equation.Black.lab reported
+None	CHEMISTRY	Glomerular filtration rate (eGFR).unspecified equation.Non-Black.lab reported
+69405-9	CHEMISTRY	Glomerular filtration rate (eGFR).unspecified equation.unspecified race.lab reported
+4548-4	CHEMISTRY	Hemoglobin A1C.percent
+35155-1	CHEMISTRY	Hexadecenoic acid (C16:1w9)
+2458-8	CHEMISTRY	Immunoglobulin A (IgA).quantitative
+2460-4	CHEMISTRY	Immunoglobulin D (IgD).quantitative
+19113-0	CHEMISTRY	Immunoglobulin E.total (IgE).quantitative
+2472-9	CHEMISTRY	Immunoglobulin M (IgM).quantitative
+33211-4	CHEMISTRY	Interleukin 8 (IL-8)
+36916-5	CHEMISTRY	Kappa light chain.free (FLC).concentration
+38177-2	CHEMISTRY	Kappa light chain.free (FLC).urine.24 hour
+38176-4	CHEMISTRY	Kappa light chain.free (FLC).urine.concentration
+11050-2	CHEMISTRY	Kappa light chain.total (TLC).concentration
+25682-6	CHEMISTRY	Kappa light chain.total (TLC).urine.24 hour
+27365-6	CHEMISTRY	Kappa light chain.total (TLC).urine.concentration
+48378-4	CHEMISTRY	Kappa/lambda light chain ratio.free (FLC)
+41759-2	CHEMISTRY	Kappa/lambda light chain ratio.free (FLC).urine
+15189-4	CHEMISTRY	Kappa/lambda light chain ratio.total (TLC)
+33559-6	CHEMISTRY	Kappa/lambda light chain ratio.total (TLC).urine
+33944-0	CHEMISTRY	Lambda light chain.free (FLC).concentration
+38169-9	CHEMISTRY	Lambda light chain.free (FLC).urine.24 hour
+38178-0	CHEMISTRY	Lambda light chain.free (FLC).urine.concentration
+11051-0	CHEMISTRY	Lambda light chain.total (TLC).concentration
+25684-2	CHEMISTRY	Lambda light chain.total (TLC).urine.24 hour
+27394-6	CHEMISTRY	Lambda light chain.total (TLC).urine.concentration
+35150-2	CHEMISTRY	Lauric acid (C12:0)
+35172-6	CHEMISTRY	Mead acid (C20:3w9)
+13348-8	CHEMISTRY	Monoclonal protein (M protein).qualitative
+None	CHEMISTRY	Monoclonal protein (M protein).unspecified specimen.qualitative
+74666-9	CHEMISTRY	Monoclonal protein (M protein).urine.qualitative
+35157-7	CHEMISTRY	Myristic acid (C14:0)
+30934-4	CHEMISTRY	Natriuretic peptide.B (BNP)
+33762-6	CHEMISTRY	Natriuretic peptide.proBNP (NT-proBNP)
+35170-0	CHEMISTRY	Nervonic acid (C24:1w9)
+101281-4	CHEMISTRY	Neurofilament light chain
+15060-7	CHEMISTRY	Neuron-specific enolase (NSE)
+2335-8	CHEMISTRY	Occult blood (FOB).stool
+2692-2	CHEMISTRY	Osmolality
+2695-5	CHEMISTRY	Osmolality.urine
+2709-4	CHEMISTRY	Oxygen.saturation (SO2).capillary blood
+20564-1	CHEMISTRY	Oxygen.saturation (SO2).unspecified specimen
+2711-0	CHEMISTRY	Oxygen.saturation (SO2).venous blood
+19224-5	CHEMISTRY	Oxygen.saturation (SvO2).mixed venous blood
+2714-4	CHEMISTRY	Oxyhemoglobin.fractional (FO2Hb).arterial blood
+2715-1	CHEMISTRY	Oxyhemoglobin.fractional (FO2Hb).capillary blood
+34969-6	CHEMISTRY	Oxyhemoglobin.fractional (FO2Hb).mixed venous blood
+11559-2	CHEMISTRY	Oxyhemoglobin.fractional (FO2Hb).unspecified specimen
+2716-9	CHEMISTRY	Oxyhemoglobin.fractional (FO2Hb).venous blood
+2744-1	CHEMISTRY	PH.arterial blood
+28646-8	CHEMISTRY	PH.arterial cord blood
+33254-4	CHEMISTRY	PH.temperature corrected.arterial blood
+35161-9	CHEMISTRY	Palmitic acid (C16:0)
+35162-7	CHEMISTRY	Palmitoleic acid (C16:1w7)
+14338-8	CHEMISTRY	Prealbumin (PALB)
+33959-8	CHEMISTRY	Procalcitonin (PCT)
+10886-0	CHEMISTRY	Prostate specific antigen.free (fPSA).concentration
+12841-3	CHEMISTRY	Prostate specific antigen.free (fPSA).percent
+2857-1	CHEMISTRY	Prostate specific antigen.total (PSA)
+20420-6	CHEMISTRY	Prostatic acid phosphatase (PAP)
+35149-4	CHEMISTRY	Stearic acid (C18:0)
+103675-5	CHEMISTRY	Tau protein.phosphorylated 181 (p-Tau181)
+21563-2	CHEMISTRY	Thiopurine methyltransferase.enzymatic activity (TPMT).RBC
+35411-8	CHEMISTRY	Triene/tetraene ratio
+2571-8	CHEMISTRY	Triglycerides (TG)
+None	CHEMISTRY	Troponin (TNT) (TNI)
+6598-7	CHEMISTRY	Troponin.T (TNT)
+3084-1	CHEMISTRY	Uric acid
+3087-4	CHEMISTRY	Uric acid.urine.24 hour
+3086-6	CHEMISTRY	Uric acid.urine.concentration
+35167-6	CHEMISTRY	Vaccenic acid (C18:1w7)
+75633-8	CHEMISTRY	Vectra DA.score
+None	CHEMISTRY	eGFR-Mayo
+50384-7	CHEMISTRY	eGFR-Schwartz
+21108-6	COAGULATION STUDY	Beta-2 glycoprotein 1 antibody.IgA
+16136-4	COAGULATION STUDY	Beta-2 glycoprotein 1 antibody.IgM
+5076-5	COAGULATION STUDY	Cardiolipin antibody.IgA
+3182-3	COAGULATION STUDY	Cardiolipin antibody.IgM
+34444-0	COAGULATION STUDY	Des-gamma-carboxy prothrombin (DCP)
+48065-7	COAGULATION STUDY	Fibrin D-Dimer
+None	COAGULATION STUDY	Partial thromboplastin time.hexagonal phase phospholipid (PTT-LA confirm).actual
+31561-4	COAGULATION STUDY	Phospholipid antibody screen.IgA
+20429-7	COAGULATION STUDY	Phospholipid antibody screen.IgM
+40596-9	COAGULATION STUDY	Prothrombin antibody.IgM
+41858-2	DRUG LEVELS & TOXICOLOGY	2-Ethylidene-1;5-Dimethyl-3;3-Diphenylpyrrolidine (EDDP).urine
+10976-9	DRUG LEVELS & TOXICOLOGY	6-Monoacetylmorphine (6-MAM).urine
+18338-4	DRUG LEVELS & TOXICOLOGY	Desmethyltramadol.urine
+86454-6	DRUG LEVELS & TOXICOLOGY	N-Desmethyltramadol.urine
+61421-4	DRUG LEVELS & TOXICOLOGY	Norhydrocodone.urine
+86453-8	DRUG LEVELS & TOXICOLOGY	O-Desmethyltramadol.urine
+51691-4	DRUG LEVELS & TOXICOLOGY	Opiates
+3879-4	DRUG LEVELS & TOXICOLOGY	Opiates.urine
+11281-3	HEMATOLOGY/CELL COUNTS	Auer rods
+26507-4	HEMATOLOGY/CELL COUNTS	Bands.absolute
+26508-2	HEMATOLOGY/CELL COUNTS	Bands.percent
+26444-0	HEMATOLOGY/CELL COUNTS	Basophil.absolute
+30180-4	HEMATOLOGY/CELL COUNTS	Basophil.percent
+30376-8	HEMATOLOGY/CELL COUNTS	Blast.absolute
+26446-5	HEMATOLOGY/CELL COUNTS	Blast.percent
+4485-9	HEMATOLOGY/CELL COUNTS	Complement C3.total.quantitative
+4498-2	HEMATOLOGY/CELL COUNTS	Complement C4.total.quantitative
+4532-8	HEMATOLOGY/CELL COUNTS	Complement CH50.total
+26449-9	HEMATOLOGY/CELL COUNTS	Eosinophil.absolute
+26450-7	HEMATOLOGY/CELL COUNTS	Eosinophil.percent
+29993-3	HEMATOLOGY/CELL COUNTS	Eosinophil.sputum
+30341-2	HEMATOLOGY/CELL COUNTS	Erythrocyte sedimentation rate (ESR)
+30397-4	HEMATOLOGY/CELL COUNTS	Hairy cell.absolute
+35058-7	HEMATOLOGY/CELL COUNTS	Hairy cell.percent
+40716-3	HEMATOLOGY/CELL COUNTS	Hairy cell.qualitative
+4544-3	HEMATOLOGY/CELL COUNTS	Hematocrit (HCT)
+718-7	HEMATOLOGY/CELL COUNTS	Hemoglobin (HGB)
+4546-8	HEMATOLOGY/CELL COUNTS	Hemoglobin A.percent
+4551-8	HEMATOLOGY/CELL COUNTS	Hemoglobin A2.percent
+4563-3	HEMATOLOGY/CELL COUNTS	Hemoglobin C.percent
+4576-5	HEMATOLOGY/CELL COUNTS	Hemoglobin F.percent
+4625-0	HEMATOLOGY/CELL COUNTS	Hemoglobin S.percent
+721-1	HEMATOLOGY/CELL COUNTS	Hemoglobin.free
+51584-1	HEMATOLOGY/CELL COUNTS	Immature granulocytes (IG).absolute
+38518-7	HEMATOLOGY/CELL COUNTS	Immature granulocytes (IG).percent
+26474-7	HEMATOLOGY/CELL COUNTS	Lymphocyte.absolute
+26477-0	HEMATOLOGY/CELL COUNTS	Lymphocyte.atypical.absolute
+735-1	HEMATOLOGY/CELL COUNTS	Lymphocyte.atypical.percent
+26478-8	HEMATOLOGY/CELL COUNTS	Lymphocyte.percent
+60473-6	HEMATOLOGY/CELL COUNTS	Lymphocyte.vacuolated
+785-6	HEMATOLOGY/CELL COUNTS	Mean corpuscular hemoglobin (MCH)
+786-4	HEMATOLOGY/CELL COUNTS	Mean corpuscular hemoglobin concentration (MCHC)
+787-2	HEMATOLOGY/CELL COUNTS	Mean corpuscular volume (MCV)
+None	HEMATOLOGY/CELL COUNTS	Megakaryocyte.fragments
+19252-6	HEMATOLOGY/CELL COUNTS	Megakaryocyte.unspecified specimen.percent
+40688-4	HEMATOLOGY/CELL COUNTS	Megakaryocyte.unspecified specimen.qualitative
+30433-7	HEMATOLOGY/CELL COUNTS	Metamyelocyte.absolute
+28541-1	HEMATOLOGY/CELL COUNTS	Metamyelocyte.percent
+62858-6	HEMATOLOGY/CELL COUNTS	Micromegakaryocyte.percent
+51645-0	HEMATOLOGY/CELL COUNTS	Micromegakaryocyte.qualitative
+26484-6	HEMATOLOGY/CELL COUNTS	Monocyte.absolute
+26485-3	HEMATOLOGY/CELL COUNTS	Monocyte.percent
+None	HEMATOLOGY/CELL COUNTS	Monocyte.vacuolated
+30446-9	HEMATOLOGY/CELL COUNTS	Myelocyte.absolute
+26498-6	HEMATOLOGY/CELL COUNTS	Myelocyte.percent
+26499-4	HEMATOLOGY/CELL COUNTS	Neutrophil.absolute
+30450-1	HEMATOLOGY/CELL COUNTS	Neutrophil.hypersegmented.percent
+765-8	HEMATOLOGY/CELL COUNTS	Neutrophil.hypersegmented.qualitative
+26511-6	HEMATOLOGY/CELL COUNTS	Neutrophil.percent
+18319-4	HEMATOLOGY/CELL COUNTS	Neutrophil.vacuolated
+18311-1	HEMATOLOGY/CELL COUNTS	Pelger-Huet cells
+26515-7	HEMATOLOGY/CELL COUNTS	Platelet count (PLT)
+9317-9	HEMATOLOGY/CELL COUNTS	Platelet estimate
+32623-1	HEMATOLOGY/CELL COUNTS	Platelet mean volume (MPV)
+5908-9	HEMATOLOGY/CELL COUNTS	Platelets.giant.qualitative
+32146-3	HEMATOLOGY/CELL COUNTS	Platelets.large.qualitative
+18312-9	HEMATOLOGY/CELL COUNTS	Platelets.satellitism
+30464-2	HEMATOLOGY/CELL COUNTS	Prolymphocyte.absolute
+30465-9	HEMATOLOGY/CELL COUNTS	Prolymphocyte.percent
+34926-6	HEMATOLOGY/CELL COUNTS	Promonocyte.absolute
+30466-7	HEMATOLOGY/CELL COUNTS	Promonocyte.percent
+26523-1	HEMATOLOGY/CELL COUNTS	Promyelocyte.absolute
+26524-9	HEMATOLOGY/CELL COUNTS	Promyelocyte.percent
+60526-1	HEMATOLOGY/CELL COUNTS	Pseudo Pelger-Huet cells
+789-8	HEMATOLOGY/CELL COUNTS	Red blood cell count (RBC)
+7789-1	HEMATOLOGY/CELL COUNTS	Red blood cells.acanthocytes
+50670-9	HEMATOLOGY/CELL COUNTS	Red blood cells.agglutination
+38892-6	HEMATOLOGY/CELL COUNTS	Red blood cells.anisocytosis
+703-9	HEMATOLOGY/CELL COUNTS	Red blood cells.basophilic stippling
+10371-3	HEMATOLOGY/CELL COUNTS	Red blood cells.bite cells
+10372-1	HEMATOLOGY/CELL COUNTS	Red blood cells.blister cells
+7790-9	HEMATOLOGY/CELL COUNTS	Red blood cells.burr cells
+11280-5	HEMATOLOGY/CELL COUNTS	Red blood cells.cabot rings
+11274-8	HEMATOLOGY/CELL COUNTS	Red blood cells.elliptocytes
+48068-1	HEMATOLOGY/CELL COUNTS	Red blood cells.heinz bodies
+10374-7	HEMATOLOGY/CELL COUNTS	Red blood cells.helmet cells
+7793-3	HEMATOLOGY/CELL COUNTS	Red blood cells.howell-jolly bodies
+728-6	HEMATOLOGY/CELL COUNTS	Red blood cells.hypochromia
+None	HEMATOLOGY/CELL COUNTS	Red blood cells.keratocytes
+738-5	HEMATOLOGY/CELL COUNTS	Red blood cells.macrocytes
+741-9	HEMATOLOGY/CELL COUNTS	Red blood cells.microcytes
+30392-5	HEMATOLOGY/CELL COUNTS	Red blood cells.nucleated (NRBC).absolute
+19048-8	HEMATOLOGY/CELL COUNTS	Red blood cells.nucleated (NRBC).percent
+774-0	HEMATOLOGY/CELL COUNTS	Red blood cells.ovalocytes
+7795-8	HEMATOLOGY/CELL COUNTS	Red blood cells.pappenheimer bodies
+779-9	HEMATOLOGY/CELL COUNTS	Red blood cells.poikilocytosis
+10378-8	HEMATOLOGY/CELL COUNTS	Red blood cells.polychromasia
+50260-9	HEMATOLOGY/CELL COUNTS	Red blood cells.prekeratocytes
+800-3	HEMATOLOGY/CELL COUNTS	Red blood cells.schistocytes
+801-1	HEMATOLOGY/CELL COUNTS	Red blood cells.sickle cells
+802-9	HEMATOLOGY/CELL COUNTS	Red blood cells.spherocytes
+10380-4	HEMATOLOGY/CELL COUNTS	Red blood cells.stomatocytes
+10381-2	HEMATOLOGY/CELL COUNTS	Red blood cells.target cells
+7791-7	HEMATOLOGY/CELL COUNTS	Red blood cells.tear drops
+788-0	HEMATOLOGY/CELL COUNTS	Red cell distribution width.CV (RDW-CV)
+31111-8	HEMATOLOGY/CELL COUNTS	Reticulocyte production index (RPI)
+14196-0	HEMATOLOGY/CELL COUNTS	Reticulocyte.absolute
+4679-7	HEMATOLOGY/CELL COUNTS	Reticulocyte.percent
+7797-4	HEMATOLOGY/CELL COUNTS	Rouleaux
+34993-6	HEMATOLOGY/CELL COUNTS	Smudge cells.absolute
+34992-8	HEMATOLOGY/CELL COUNTS	Smudge cells.percent
+26464-8	HEMATOLOGY/CELL COUNTS	White blood cell count (WBC)
+12227-5	HEMATOLOGY/CELL COUNTS	White blood cell count.NRBC corrected (WBC)
+7792-5	HEMATOLOGY/CELL COUNTS	White blood cells.dohle bodies
+803-7	HEMATOLOGY/CELL COUNTS	White blood cells.toxic granulation
+10648-4	MICROBIOLOGY	Babesia.microscopic
+57916-9	MICROBIOLOGY	Borrelia burgdorferi C6 peptide antibody (Lyme)
+32667-8	MICROBIOLOGY	Borrelia burgdorferi DNA (Lyme).unspecified specimen
+22135-8	MICROBIOLOGY	Borrelia burgdorferi antibody.IgM (Lyme)
+6321-4	MICROBIOLOGY	Borrelia burgdorferi antibody.IgM (Lyme).western blot
+101936-3	MICROBIOLOGY	Candida albicans.unspecified specimen.NAA
+97936-9	MICROBIOLOGY	Candida auris.unspecified specimen.NAA
+101938-9	MICROBIOLOGY	Candida dubliniensis.unspecified specimen.NAA
+101940-5	MICROBIOLOGY	Candida glabrata.unspecified specimen.NAA
+101345-7	MICROBIOLOGY	Candida krusei.unspecified specimen.NAA
+101942-1	MICROBIOLOGY	Candida lusitaniae.unspecified specimen.NAA
+101943-9	MICROBIOLOGY	Candida parapsilosis.unspecified specimen.NAA
+91081-0	MICROBIOLOGY	Candida species.unspecified specimen.NAA
+101945-4	MICROBIOLOGY	Candida tropicalis.unspecified specimen.NAA
+45069-2	MICROBIOLOGY	Chlamydia trachomatis and Neisseria gonorrhoeae.unspecified specimen.NAA
+45091-6	MICROBIOLOGY	Chlamydia trachomatis antigen.unspecified specimen
+16600-9	MICROBIOLOGY	Chlamydia trachomatis.unspecified specimen.NAA
+34713-8	MICROBIOLOGY	Clostridioides difficile toxin (Cdiff).stool.qualitative
+22239-8	MICROBIOLOGY	Cytomegalovirus antibody.IgG + IgM (CMV)
+7853-5	MICROBIOLOGY	Cytomegalovirus antibody.IgM (CMV)
+5005-4	MICROBIOLOGY	Epstein-Barr virus DNA (EBV).unspecified specimen
+31369-2	MICROBIOLOGY	Epstein-Barr virus capsid antibody.IgA (EBV VCA)
+7886-5	MICROBIOLOGY	Epstein-Barr virus capsid antibody.IgM (EBV VCA)
+22293-5	MICROBIOLOGY	Epstein-Barr virus early antibody (EBV EA)
+31372-6	MICROBIOLOGY	Epstein-Barr virus nuclear antibody (EBV EBNA)
+7918-6	MICROBIOLOGY	HIV 1+2 antibody
+56888-1	MICROBIOLOGY	HIV 1+2 antibody and HIV-1 p24 antigen
+44873-8	MICROBIOLOGY	HIV 1+2 antibody.western blot
+7917-8	MICROBIOLOGY	HIV-1 antibody
+5221-7	MICROBIOLOGY	HIV-1 antibody.western blot
+9821-0	MICROBIOLOGY	HIV-1 p24 antigen.qualitative
+7919-4	MICROBIOLOGY	HIV-2 antibody
+61372-9	MICROBIOLOGY	HPV 16 DNA.unspecified specimen
+82456-5	MICROBIOLOGY	HPV 16 E6/E7 mRNA.cervical/vaginal
+70061-7	MICROBIOLOGY	HPV 16+18 DNA.unspecified specimen
+61373-7	MICROBIOLOGY	HPV 18 DNA.unspecified specimen
+75694-0	MICROBIOLOGY	HPV 18+45 E6/E7 mRNA.cervical/vaginal
+77377-0	MICROBIOLOGY	HPV high risk genotypes DNA.unspecified specimen
+69002-4	MICROBIOLOGY	HPV high risk genotypes E6/E7 mRNA.cervical/vaginal
+55299-2	MICROBIOLOGY	HPV low risk genotypes DNA.unspecified specimen
+11258-1	MICROBIOLOGY	Hepatitis B DNA (HBV)
+24113-3	MICROBIOLOGY	Hepatitis B core antibody.IgM (HBc-IgM)
+13952-7	MICROBIOLOGY	Hepatitis B core antibody.total (HBcAb)
+13953-5	MICROBIOLOGY	Hepatitis B e antibody (HBeAb)
+13954-3	MICROBIOLOGY	Hepatitis B e antigen (HBeAg)
+5194-6	MICROBIOLOGY	Hepatitis B surface antibody (HBsAb)
+5196-1	MICROBIOLOGY	Hepatitis B surface antigen (HBsAg).qualitative
+63557-3	MICROBIOLOGY	Hepatitis B surface antigen (HBsAg).quantitative
+16128-1	MICROBIOLOGY	Hepatitis C antibody (HCV).qualitative
+48159-8	MICROBIOLOGY	Hepatitis C antibody s/co ratio (HCV).quantitative
+32286-7	MICROBIOLOGY	Hepatitis C genotype (HCV)
+34597-5	MICROBIOLOGY	Hepatitis D antibody.IgM (HDv-IgM)
+13248-0	MICROBIOLOGY	Hepatitis D antibody.total (HDvAb)
+33464-9	MICROBIOLOGY	Hepatitis D antigen (HDvAg)
+7910-3	MICROBIOLOGY	Herpes simplex virus 1 antibody.IgM (HSV-1)
+43030-6	MICROBIOLOGY	Herpes simplex virus 1+2 antibody.IgM (HSV 1+2)
+7913-7	MICROBIOLOGY	Herpes simplex virus 2 antibody.IgM (HSV-2)
+31418-7	MICROBIOLOGY	Heterophile antibody (Mono)
+44537-9	MICROBIOLOGY	Human T-lymphotrophic virus 1 DNA (HTLV-1)
+22359-4	MICROBIOLOGY	Human T-lymphotrophic virus 1 antibody (HTLV-1)
+6432-9	MICROBIOLOGY	Human T-lymphotrophic virus 1 antibody (HTLV-1).immunoblot
+30159-8	MICROBIOLOGY	Human T-lymphotrophic virus 1+2 DNA (HTLV 1+2)
+22362-8	MICROBIOLOGY	Human T-lymphotrophic virus 1+2 antibody (HTLV 1+2)
+16982-1	MICROBIOLOGY	Human T-lymphotrophic virus 1+2 antibody (HTLV 1+2).immunoblot
+44542-9	MICROBIOLOGY	Human T-lymphotrophic virus 2 DNA (HTLV-2)
+26656-9	MICROBIOLOGY	Human T-lymphotrophic virus 2 antibody (HTLV-2)
+None	MICROBIOLOGY	Human T-lymphotrophic virus 2 antibody (HTLV-2).immunoblot
+88222-5	MICROBIOLOGY	Human metapneumovirus antigen (HMPV).respiratory
+33535-6	MICROBIOLOGY	Influenza A + B.respiratory.qualitative
+80382-5	MICROBIOLOGY	Influenza A.respiratory.qualitative
+80383-3	MICROBIOLOGY	Influenza B.respiratory.qualitative
+32206-5	MICROBIOLOGY	Malaria.microscopic
+100383-9	MICROBIOLOGY	Mpox virus DNA.unspecified specimen
+43305-2	MICROBIOLOGY	Neisseria gonorrhoeae.unspecified specimen.NAA
+100434-0	MICROBIOLOGY	Orthopoxvirus DNA.unspecified specimen
+22466-7	MICROBIOLOGY	RSV antibody
+22467-5	MICROBIOLOGY	RSV antibody.IgM
+68966-1	MICROBIOLOGY	RSV antigen.respiratory
+None	MICROBIOLOGY	RSV.respiratory
+20507-0	MICROBIOLOGY	Reagin antibody (nontreponemal)
+17547-1	MICROBIOLOGY	Rotavirus antigen.stool
+31616-6	MICROBIOLOGY	Rubella antibody.IgM.qualitative
+8015-0	MICROBIOLOGY	Rubella antibody.IgM.quantitative
+22496-4	MICROBIOLOGY	Rubella antibody.qualitative
+8013-5	MICROBIOLOGY	Rubella antibody.quantitative
+94762-2	MICROBIOLOGY	SARS coronavirus 2 antibody (COVID-19)
+94768-9	MICROBIOLOGY	SARS coronavirus 2 antibody.IgA (COVID-19)
+94508-9	MICROBIOLOGY	SARS coronavirus 2 antibody.IgM (COVID-19)
+94558-4	MICROBIOLOGY	SARS coronavirus 2 antigen (COVID-19).respiratory
+None	MICROBIOLOGY	SARS coronavirus 2 nucleocapsid protein antibody (COVID-19)
+None	MICROBIOLOGY	SARS coronavirus 2 spike protein antibody (COVID-19)
+None	MICROBIOLOGY	SARS coronavirus 2 spike protein antibody.IgM (COVID-19)
+48683-7	MICROBIOLOGY	Streptococcus agalactiae (group B).unspecified specimen.NAA
+91875-5	MICROBIOLOGY	Streptococcus agalactiae (group B).vaginal/rectal.NAA
+11266-4	MICROBIOLOGY	Streptococcus agalactiae antigen (group B).unspecified specimen
+None	MICROBIOLOGY	Streptococcus pyogenes (group A).throat
+60489-2	MICROBIOLOGY	Streptococcus pyogenes (group A).throat.NAA
+18481-2	MICROBIOLOGY	Streptococcus pyogenes antigen (group A).throat
+29904-0	MICROBIOLOGY	Toxoplasma gondii DNA.unspecified specimen
+25542-2	MICROBIOLOGY	Toxoplasma gondii antibody.IgM.qualitative
+8040-8	MICROBIOLOGY	Toxoplasma gondii antibody.IgM.quantitative
+53605-2	MICROBIOLOGY	Treponema pallidum DNA.unspecified specimen
+5393-4	MICROBIOLOGY	Treponema pallidum antibody (FTA-ABS).IFA
+24312-1	MICROBIOLOGY	Treponema pallidum antibody (TP-PA/MHA-TP).agglutination
+6562-3	MICROBIOLOGY	Treponema pallidum antibody.IgM
+10729-2	MICROBIOLOGY	Trypanosoma.microscopic
+None	MISCELLANEOUS	Fraction of inspired oxygen (FiO2) and/or O2 flow rate.inhaled gas
+3150-0	MISCELLANEOUS	Fraction of inspired oxygen (FiO2).inhaled gas.percent
+96269-6	MISCELLANEOUS	Fractional exhaled nitric oxide (FeNO).exhaled gas
+59408-5	MISCELLANEOUS	Oxygen.saturation (SpO2).pulse oximetry
+None	MOLECULAR PATHOLOGY	ABL1 gene.35 nucleotide insertion.unspecified specimen
+21747-1	MOLECULAR PATHOLOGY	B-cell IGH gene.clonal rearrangement.unspecified specimen
+21748-9	MOLECULAR PATHOLOGY	B-cell IGK gene.clonal rearrangement.unspecified specimen
+61113-7	MOLECULAR PATHOLOGY	B-cell gene.clonal rearrangement.unspecified specimen
+None	MOLECULAR PATHOLOGY	BARD1 gene.mutation.unspecified specimen
+None	MOLECULAR PATHOLOGY	BCR-ABL1.unspecified specimen
+None	MOLECULAR PATHOLOGY	BRIP1 gene.mutation.unspecified specimen
+82251-0	MOLECULAR PATHOLOGY	Bladder cancer (UroVysion).urine.FISH
+None	MOLECULAR PATHOLOGY	CBFB-MYH11.unspecified specimen
+77034-7	MOLECULAR PATHOLOGY	CBFB-MYH11.unspecified specimen.FISH
+72210-8	MOLECULAR PATHOLOGY	CBFB-MYH11.unspecified specimen.PCR
+None	MOLECULAR PATHOLOGY	CDK4 gene.mutation.unspecified specimen
+None	MOLECULAR PATHOLOGY	CKS1B + CDKN2C gene.mutation.unspecified specimen
+21770-3	MOLECULAR PATHOLOGY	Chromosome 12.trisomy.unspecified specimen
+None	MOLECULAR PATHOLOGY	Chromosome 13q14 + 13q34.mutation.unspecified specimen.FISH
+None	MOLECULAR PATHOLOGY	Chromosome 13q14.3.mutation.unspecified specimen.FISH
+None	MOLECULAR PATHOLOGY	Chromosome 13q34.mutation.unspecified specimen.FISH
+82238-7	MOLECULAR PATHOLOGY	Chromosome 15q11-q13.abnormality.unspecified specimen
+88744-8	MOLECULAR PATHOLOGY	EML4-ALK.unspecified specimen.PCR
+90043-1	MOLECULAR PATHOLOGY	IGH-MAFB.unspecified specimen.FISH
+48670-4	MOLECULAR PATHOLOGY	IgVH gene.mutation.unspecified specimen
+None	MOLECULAR PATHOLOGY	JAK2 gene.V617F mutation.unspecified specimen.concentration
+88519-4	MOLECULAR PATHOLOGY	KIT gene.D816V mutation.unspecified specimen
+55201-8	MOLECULAR PATHOLOGY	KIT gene.mutation.unspecified specimen
+33893-9	MOLECULAR PATHOLOGY	Karyotype.unspecified specimen
+None	MOLECULAR PATHOLOGY	MDM2.unspecified specimen.qualitative
+None	MOLECULAR PATHOLOGY	MLH3 gene.mutation.unspecified specimen
+None	MOLECULAR PATHOLOGY	MRE11A gene.mutation.unspecified specimen
+None	MOLECULAR PATHOLOGY	MSH3 gene.mutation.unspecified specimen
+None	MOLECULAR PATHOLOGY	MYD88 gene.exon 5 mutation.unspecified specimen
+93813-4	MOLECULAR PATHOLOGY	NTRK gene.rearrangement.unspecified specimen
+38909-8	MOLECULAR PATHOLOGY	PTCH1 gene.mutation.unspecified specimen
+69361-4	MOLECULAR PATHOLOGY	Prostate cancer antigen 3 (PCA3).urine.score
+None	MOLECULAR PATHOLOGY	RAD51C gene.mutation.unspecified specimen
+None	MOLECULAR PATHOLOGY	RAD51D gene.mutation.unspecified specimen
+81747-8	MOLECULAR PATHOLOGY	ROS1 gene.rearrangement.unspecified specimen.FISH
+None	MOLECULAR PATHOLOGY	RUNX1 gene.mutation.unspecified specimen
+56880-8	MOLECULAR PATHOLOGY	TCR gene.rearrangement.unspecified specimen
+21751-3	MOLECULAR PATHOLOGY	TCRB gene.rearrangement.unspecified specimen
+21753-9	MOLECULAR PATHOLOGY	TCRG gene.rearrangement.unspecified specimen
+None	MOLECULAR PATHOLOGY	XRCC2 gene.mutation.unspecified specimen
+77037-0	MOLECULAR PATHOLOGY	t(11;14)(q13;q32) (CCND1-IGH).unspecified specimen.FISH
+21801-6	MOLECULAR PATHOLOGY	t(11;14)(q13;q32) (CCND1-IGH).unspecified specimen.PCR
+77033-9	MOLECULAR PATHOLOGY	t(14;16)(q32;q23) (IGH-MAF).unspecified specimen.FISH
+None	MOLECULAR PATHOLOGY	t(15;17)(q22;q12) (PML-RARA).unspecified specimen
+72726-3	MOLECULAR PATHOLOGY	t(4;14)(p16;q32) (IGH-FGFR3).unspecified specimen.FISH
+None	MOLECULAR PATHOLOGY	t(6;14)(p21;q32) (CCND3-IGH).unspecified specimen.FISH
+77032-1	MOLECULAR PATHOLOGY	t(8;14)(q24;q32) (MYC-IGH).unspecified specimen.FISH
+53637-5	PATHOLOGY	BOB1 antigen.unspecified specimen
+None	PATHOLOGY	FMC7.unspecified specimen.qualitative
+42914-2	PATHOLOGY	HER2.concentration
+18474-7	PATHOLOGY	HER2.unspecified specimen.qualitative
+50322-7	PATHOLOGY	MLH1 antigen.unspecified specimen
+50323-5	PATHOLOGY	MSH2 antigen.unspecified specimen
+50324-3	PATHOLOGY	MSH6 antigen.unspecified specimen
+81695-9	PATHOLOGY	Microsatellite instability (MSI).unspecified specimen
+53641-7	PATHOLOGY	OCT2 antigen.unspecified specimen
+49556-4	PATHOLOGY	P16 antigen (INK4a).unspecified specimen
+50328-4	PATHOLOGY	PMS2 antigen.unspecified specimen
+83053-9	PATHOLOGY	Programmed cell death ligand 1 (PD-L1).unspecified specimen
+None	PATHOLOGY	ROS1 fusion protein.unspecified specimen
+None	PATHOLOGY	SOX11 antigen.unspecified specimen
+None	PATHOLOGY	Terminal deoxynucleotidyl transferase (TdT).unspecified specimen.qualitative
+8061-4	SEROLOGY	Antinuclear antibody (ANA).qualitative
+27200-5	SEROLOGY	Antinuclear antibody (ANA).quantitative
+14611-8	SEROLOGY	Antinuclear antibody pattern 1 (ANA)
+None	SEROLOGY	Antinuclear antibody pattern 2 (ANA)
+None	SEROLOGY	Antinuclear antibody pattern 3 (ANA)
+53994-0	SEROLOGY	Antinuclear antibody pattern.centrosomal (ANA)
+54149-0	SEROLOGY	Antinuclear antibody pattern.homogenous (ANA)
+53997-3	SEROLOGY	Antinuclear antibody pattern.nuclear dots (ANA)
+54005-4	SEROLOGY	Antinuclear antibody pattern.nuclear membrane pores (ANA)
+20399-2	SEROLOGY	Antinuclear antibody pattern.nucleolar (ANA)
+20401-6	SEROLOGY	Antinuclear antibody pattern.speckled (ANA)
+31729-7	SEROLOGY	Bladder tumor antigen (BTA/CFHrp).urine
+None	SEROLOGY	Carbonic anhydrase 6 antibody (CA VI)
+14658-9	SEROLOGY	Cold agglutinin
+5130-0	SEROLOGY	Double stranded DNA antibody (anti-dsDNA)
+8071-3	SEROLOGY	Histone antibody
+31209-0	SEROLOGY	Islet antigen 2 antibody (IA-2A)
+89005-3	SEROLOGY	NY-ESO-1 antibody
+89006-1	SEROLOGY	P53 antibody
+31547-3	SEROLOGY	Pancreatic islet cell antibody (ICA)
+None	SEROLOGY	Parotid secretory protein antibody (PSP)
+33313-8	SEROLOGY	Rheumatoid factor.IgA (RF).quantitative
+11573-3	SEROLOGY	Rheumatoid factor.IgM (RF).quantitative
+33910-1	SEROLOGY	Rheumatoid factor.total (RF).qualitative
+11572-5	SEROLOGY	Rheumatoid factor.total (RF).quantitative
+29374-6	SEROLOGY	Ribonucleoprotein antibody (anti-RNP)
+None	SEROLOGY	Salivary protein 1 antibody (SP-1)
+17792-3	SEROLOGY	Sjogrens syndrome-A antibody (anti-SSA/anti-Ro)
+17791-5	SEROLOGY	Sjogrens syndrome-B antibody (anti-SSB/anti-La)
+11090-8	SEROLOGY	Smith antibody (anti-Sm)
+56148-0	SEROLOGY	Smith+Ribonucleoprotein antibody (anti-Sm+RNP)
+None	SPECIAL CHEMISTRY	HIV 1+2 antibody and HIV-1 p24 antigen.qualitative
+None	SPECIAL CHEMISTRY	HIV antibody.qualitative
+None	SPECIALTY LAB	ALK gene.abnormality.unspecified specimen
+None	SPECIALTY LAB	BCL-2.abnormality.unspecified specimen
+None	SPECIALTY LAB	BCR-ABL.abnormality.unspecified specimen
+None	SPECIALTY LAB	DNA mismatch repair deficiency (dMMRs).unspecified specimen
+None	SPECIALTY LAB	DPYD.abnormality.unspecified specimen
+None	SPECIALTY LAB	FLT3 gene.abormality.unspecified specimen
+None	SPECIALTY LAB	HER2/neu.unspecified specimen
+None	SPECIALTY LAB	NY-ESO-1.abnormality.unspecified specimen
+None	SPECIALTY LAB	Oxacillin or Cefoxitin
+None	SPECIALTY LAB	P53.abnormality.unspecified specimen
+None	SPECIALTY LAB	RET gene.abnormality.unspecified specimen
+None	SPECIALTY LAB	ROS1.abnormality.unspecified specimen
+None	SPECIALTY LAB	Vancomycin.MIC
+60340-7	URINALYSIS	Amorphous crystals.urine.microscopic
+33784-0	URINALYSIS	Bacterial casts.urine.microscopic
+5794-3	URINALYSIS	Blood.urine.dipstick
+31999-6	URINALYSIS	Broad casts.urine.microscopic
+24124-0	URINALYSIS	Casts.urine.microscopic
+5778-6	URINALYSIS	Color.urine
+49755-2	URINALYSIS	Crystals.urine.microscopic
+25157-9	URINALYSIS	Epithelial cell casts.urine.microscopic
+5787-7	URINALYSIS	Epithelial cells.urine.microscopic
+25159-5	URINALYSIS	Fatty casts.urine.microscopic
+25160-3	URINALYSIS	Granular casts.urine.microscopic
+25162-9	URINALYSIS	Hyaline casts.urine.microscopic
+33903-6	URINALYSIS	Ketones.urine.dipstick
+5799-2	URINALYSIS	Leukocyte esterase.urine.dipstick
+25145-4	URINALYSIS	Microorganisms.urine.microscopic
+34173-5	URINALYSIS	Mixed cellular casts.urine.microscopic
+2756-5	URINALYSIS	PH.urine.dipstick
+33804-6	URINALYSIS	Red blood cell casts.urine.microscopic
+13945-1	URINALYSIS	Red blood cells (RBC).urine.microscopic
+2965-2	URINALYSIS	Specific gravity.urine.dipstick
+5817-2	URINALYSIS	Urate crystals.urine.microscopic
+33862-4	URINALYSIS	Waxy casts.urine.microscopic
+33825-1	URINALYSIS	White blood cell casts.urine.microscopic
+5821-4	URINALYSIS	White blood cells (WBC).urine.microscopic
